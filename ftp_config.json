@@ -1,0 +1,7 @@
+{
+    "host": "ftp.yourserver.com",
+    "username": "your_username",
+    "password": "your_password",
+    "remote_dir": "/path/to/files",
+    "local_dir": "downloaded_files"
+}

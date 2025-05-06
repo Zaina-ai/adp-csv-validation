@@ -1,0 +1,4 @@
+BatchID,Date,PatientID,Score,Diagnosis
+101,2025-05-03,P001,8.5,Flu
+102,2025-05-03,P002,9.1,Cough
+103,2025-05-03,P003,7.3,Covid
